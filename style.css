@@ -12,7 +12,7 @@ body {
   height: 100vh;
   margin: 0;
   font-family: "Open Sans", sans-serif;
-  color: #fff; /* Improved text contrast */
+  color: #ffffff00; /* Improved text contrast */
 }
 
 .card {
