@@ -16,7 +16,7 @@ body {
 
 .card {
   background: #ffffff79;
-  border-radius: 30px;
+  border-radius: 7px;
   height: 92vh;
   width: 80vw;
   box-shadow: 0 5px 40px rgb(0, 0, 0); /* Adjusted box shadow for depth */
