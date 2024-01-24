@@ -15,7 +15,7 @@ body {
 }
 
 .card {
-  background: #ffffff79;
+  background: #ffffffb6;
   border-radius: 7px;
   height: 92vh;
   width: 80vw;
@@ -57,7 +57,7 @@ img.birthday {
 
 .text {
   padding: 1em;
-  color: #333; /* Adjusted text color */
+  color: #000000; /* Adjusted text color */
 }
 
 .muted {
