@@ -6,7 +6,7 @@
 
 body {
   background-image: url("nat1.jpg");
-  background-size: auto;
+  background-size: cover;
   display: grid;
   place-items: center;
   height: 100vh;
