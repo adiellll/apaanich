@@ -6,12 +6,13 @@
 
 body {
   background-image: url("nat.jpg");
+  background-size: cover;
   display: grid;
   place-items: center;
   height: 100vh;
   margin: 0;
   font-family: "Open Sans", sans-serif;
-  color: #fff; /* Improved text contrast */
+  color: #000000; /* Improved text contrast */
 }
 
 .card {
